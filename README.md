@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mathew Thomas
+Hi! My name is Mathew Thomas
 ======================================================================================================================================
 
 Fresher with a deep interest in Microservices, Computer Vision, and DevOps tooling. Passionate about understanding core computer science architecture from distributed computing and machine learning algorithms to cloud infrastructure and containerized deployments.
